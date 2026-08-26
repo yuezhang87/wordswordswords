@@ -1,6 +1,6 @@
 # Spelling Tree Garden
 
-![Spelling Tree Garden screenshot](./screenshot.png)
+![Spelling Tree Garden screenshot](./pic.png)
 
 ## Why I built this
 
