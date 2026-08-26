@@ -1,0 +1,6 @@
+{
+  "name": "Spelling Tree Garden",
+  "description": "An interactive, motivating English spelling game for 6-year-olds where every correct word grows a magical tree, featuring phonics practice and Friday test preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
